@@ -1,4 +1,4 @@
-# Battle Game
+# Defeat the Evil Feibang Lord
 
 A simple turn-based battle game where players choose a character class and fight against the powerful Feibang Lord. The game features different character classes, each with unique abilities.
 
